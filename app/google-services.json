@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "770496958157",
+    "firebase_url": "https://autenticacaoapp-58d56.firebaseio.com",
+    "project_id": "autenticacaoapp-58d56",
+    "storage_bucket": "autenticacaoapp-58d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770496958157:android:3fbf4148c9f39f2b",
+        "android_client_info": {
+          "package_name": "com.example.opet.autenticacaoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770496958157-aq049op53lcloc2oc4aqe3a992k1dv5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opet.autenticacaoapp",
+            "certificate_hash": "c577c077c08ea4b3709944690376ec101aecb807"
+          }
+        },
+        {
+          "client_id": "770496958157-io58m8b6s23dere5u14shms0eb6sq1tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU9iAPGtbyccSYbDGH0By4eZdl5d7vksI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770496958157-io58m8b6s23dere5u14shms0eb6sq1tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
